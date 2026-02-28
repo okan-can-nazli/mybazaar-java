@@ -1,0 +1,4 @@
+Book,10,Nutuk,M. Kemal ATATÜRK,2010,false,false,null
+Book,1,Martin Eden,Jack LONDON,1997,false,true,Okan Can NAZLI
+Magazine,4,Sci-Fic,4,2021,false
+DVD,2,Enigma,Nuri Bilge Ceylan,143,2009
